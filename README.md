@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Shahram (Shahin) Milani and I'm a Frontend Developer</h2>
+<h2 align="left">Hi 👋! My name is Shahram (Shahin) Boroukanlou and I'm a Frontend Developer</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boroukanlou&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&custom_title=boroukanlou" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=boroukanlou&hide_title=false&hide_rank=true&show_icons=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&custom_title=boroukanlou" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=boroukanlou&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=boroukanlou&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&custom_title=boroukanlou" height="150" alt="languages graph"  />
 </div>
